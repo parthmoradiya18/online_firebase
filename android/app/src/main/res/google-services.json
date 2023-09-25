@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "284842273605",
+    "project_id": "onlinedatabase-f732f",
+    "storage_bucket": "onlinedatabase-f732f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:284842273605:android:556d0cce7aadbaca11ec2c",
+        "android_client_info": {
+          "package_name": "com.example.online_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZ0i5O4nRxWy-4e9H9MbghRueMnxJkrLs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
